@@ -1,0 +1,71 @@
+Patient	Ichthyosis_type	IASI_scale	IASI_erythema	IASI_total	Atopy_eczema	Skin_infections	Gene	Gender	DOB	Family_information	Collection_season	Collection_date	Age	Therapy	Weight	Age_group
+Ctrl_CH	NA	NA	NA	NA	NA	NA	NA	f	1967-05-17	NA	NA	NA	NA	NA	NA	NA
+Ctrl_GG	NA	NA	NA	NA	NA	NA	NA	f	1959-10-02	NA	NA	NA	NA	NA	NA	NA
+Mock	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+NTC	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Pat_01	IV	3	6	9	yes	none	FLG/=	m	1983-06-27	None	summer	2019	39	emolients	normal	old
+Pat_02	ARCI	10.4	2.9	13.3	no	none	ALOX12B	m	2018-05-04	None	summer	2019	1	emolients	10.P	young
+Pat_03	NS	6	24	30	yes	often	SPINK5	m	2019-02-04	None	summer	2019	1	emolients	30.P	young
+Pat_04	IV	5.4	4.5	9.9	yes	none	FLG/=, PNPLA1/=	f	2016-01-24	None	summer	2019	3	emolients	50.P	young
+Pat_05	ARCI	5.7	2.4	8.1	no	none	NIPAL4	m	2014-10-08	None	summer	2019	5	emolients	40.P	young
+Pat_06	HI	12	18	30	no	none	ABCA12	f	1996-11-26	None	summer	2019	23	acitretin and emolients	normal	old
+Pat_07	IV	5.7	1.2	6.9	no	none	FLG/=	f	2014-03-06	None	summer	2019	5	emolients	40.P	young
+Pat_08	ARCI	11.8	1.4	13.2	no	none	ALOX12B	f	2019-08-31	Pat_17	summer	2019	1	emolients	40.P	young
+Pat_09	ARCI	12	5.1	17.1	yes	none	ALOXE3	f	1998-10-30	None	summer	2019	21	emolients	normal	old
+Pat_10	ARCI	13.7	1.4	15.1	yes	often	ALOXE3	m	2018-04-27	None	autumn 	2020	2	emolients	10.P	young
+Pat_11	ARCI	4.9	1.2	6.1	in first year	none	ALOXE3	f	2017-03-17	older sister	winter	2020	3	emolients	10.P	young
+Pat_12	ARCI	21.6	6	27.6	no	none	TGM1	f	1979-11-22	None	spring 	2020	41	acitretin and emolients	normal	old
+Pat_13	ARCI	4.4	2	6.4	no	none	CYP4F22	f	2019-10-30	sister	spring 	2020	1	emolients	25.P	young
+Pat_14	ARCI	9.1	6.9	16	yes	often	CYP4F22, FLG/=	m	2016-11-27	brother	spring	2020	4	emolients	10.P	young
+Pat_15	EI	18.8	15.4	34.2	no	often	KRT1	f	2017-11-18	None	autumn	2020	3	emolients	90.P	young
+Pat_16	ARCI	8.4	3.3	11.7	no	none	ALOXE3	m	2017-01-16	Pat_28	summer	2019	2	emolients	10.P	young
+Pat_17	ARCI	11.8	1.4	13.2	no	none	ALOX12B	f	2019-08-31	Pat_08	spring	2020	1	emolients	40.P	young
+Pat_18	IV	6.9	0	6.9	no	none	FLG/FLG	m	1982-08-05	father of Pat_19, Pat_20, Pat_21	spring	2020	38	emolients	normal	old
+Pat_19	IV	3.3	1.4	4.7	no	none	FLG/=, ALOXE3/=	m	2012-06-12	twin brother	spring	2020	8	emolients	normal	middle
+Pat_20	IV	4.5	1.8	6.3	yes	often	FLG/=	f	2012-06-12	twin sister	spring	2020	8	emolients	normal	middle
+Pat_21	IV	3	1.4	4.4	no	none	FLG/=	m	2015-01-08	brother	spring	2020	5	emolients	normal	young
+Pat_22	XRI	12	5.1	17.1	yes	none	STS	m	1970-10-11	None	spring	2020	50	emolients	normal	old
+Pat_23	ARCI	10.6	6	16.6	no	none	PNPLA1	f	2018-04-08	None	spring	2020	2	emolients	<10.P	young
+Pat_24	HI	3.2	13.4	16.6	no	often	ABCA12	m	2020-05-19	None	winter	2020	1	acitretin and emolients	30.P	young
+Pat_25	NS	8.4	14.4	22.8	yes	often	SPINK5	m	2012-04-05	None	autumn	2020	8	emolients	30.P	middle
+Pat_26	ARCI	18.8	2.7	21.5	no	often	CERS3	m	2017-04-10	None	autumn	2020	3	emolients	<10.P	young
+Pat_27	IV	3.3	0	3.3	no	none	FLG/=	f	2004-03-04	None	autumn 	2020	16	emolients	underweight	middle
+Pat_28	ARCI	8.4	3.3	11.7	no	none	ALOXE3	m	2017-01-16	Pat_16	autumn 	2020	3	emolients	10.P	young
+Pat_29	ARCI	1.9	9.9	11.8	no	none	ALOX12B	f	2019-11-25	None	autumn 	2020	1	emolients	normal	young
+Pat_30	ARCI	16.8	5	21.8	no	none	TGM1	f	1984-01-09	None	winter	2020	36	emolients	normal	old
+Pat_31	ARCI	3	0	3	no	none	TGM1	m	2019-12-05	None	winter	2021	1	emolients	30.P	young
+Pat_32	NS	10.2	16.2	26.4	yes	often	SPINK5	f	2018-03-14	None	winter 	2021	3	emolients	30.P	young
+Pat_33	ARCI	6	12	18	High IgE normalized under acitretin	mycoses	PNPLA1	f	1960-02-19	None	winter 	2021	61	acitretin and emolients	overweight	old
+Pat_34	IV	5.8	0	5.8	no	none	FLG/=	f	1975-08-15	None	winter 	2021	46	emolients	normal	old
+Pat_35	IV	4	0.2	4.2	yes	none	FLG/=	f	2015-02-10	None	spring 	2021	6	emolients	40.P	middle
+Pat_36	ARCI	10.3	3.4	13.7	no	none	SDR9C7	f	2013-09-28	None	winter	2021	8	emolients	90.P	middle
+Pat_37	ARCI	7	5.4	12.4	no	none	ALOX12B	m	2016-03-27	None	autumn	2020	4	emolients	10.P	young
+Pat_38	ARCI	3.5	3.2	6.7	no	none	ALOXE3	f	2019-06-02	younger sister	autumn	2020	1	emolients	80.P	young
+Pat_39	Porokeratosis	7.6	7.6	15.2	no	none	PMVK	f	2009-07-07	None	spring	2020	11	emolients	10.P	middle
+Pat_40	XRI	4	0	4	yes	none	STS	m	2019-08-06	None	spring	2020	1	emolients	80.P	young
+Pat_41	ARCI	5.6	3.6	9.2	yes	none	SLC27A4 (FTAP4)	m	2017-01-24	None	summer	2020	3	emolients	30.P	young
+PBS	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+K1	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Summer	NA	11.83	NA	36.1	middle
+K3	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	0.25	NA	6.8	young
+K4	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Autumn	NA	8	NA	24.1	middle
+K5	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	6	NA	24.1	middle
+K6	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Autumn	NA	3	NA	15.9	young
+K7	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Autumn	NA	10.17	NA	32.2	middle
+K8	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	2	NA	16.9	young
+K9	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	4	NA	20.5	young
+K11	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Spring	NA	8	NA	23	middle
+K13	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Spring	NA	10.5	NA	55.4	middle
+K14	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Spring	NA	4	NA	19.9	young
+K17	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Spring	NA	15.42	NA	72	middle
+K18	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Spring	NA	13.5	NA	38	middle
+K20	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Spring	NA	14.58	NA	46.3	middle
+K21	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Spring	NA	14.92	NA	55	middle
+K26	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Autumn	NA	1	NA	10	young
+K27	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	10.58	NA	35	middle
+K28	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Autumn	NA	14.08	NA	56	middle
+K30	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	1	NA	13	young
+K31	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Winter	NA	1	NA	12.3	young
+K33	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Winter	NA	18.83	NA	56	middle
+K34	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Winter	NA	21.92	NA	51	old
+K35	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Winter	NA	13.67	NA	49	middle
+K37	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Spring	NA	5	NA	25.2	young

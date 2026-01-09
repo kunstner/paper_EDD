@@ -1,0 +1,172 @@
+SampleID	Batch	Seq_ID	Patient	Location_Code	Mock	IsoControl	Control	Location	DNAconcentration	Ichthyosis_type	IASI_scale	IASI_erythema	IASI_total	Atopy_eczema	Skin_infections	Gene	Gender	DOB	Family_information	Collection_season	Collection_date	Age	Therapy	Weight	Age_group
+Pat_01A	21Sep54	DL289	Pat_01	A	FALSE	FALSE	FALSE	Arm_right	2.1	IV	3	6	9	yes	none	FLG/=	m	1983-06-27	None	summer	2019	39	emolients	normal	old
+Pat_02A	21Sep54	DL292	Pat_02	A	FALSE	FALSE	FALSE	Arm_right	1.9	ARCI	10.4	2.9	13.3	no	none	ALOX12B	m	2018-05-04	None	summer	2019	1	emolients	10.P	young
+Pat_03A	21Sep54	DL295	Pat_03	A	FALSE	FALSE	FALSE	Arm_right	4.5	NS	6	24	30	yes	often	SPINK5	m	2019-02-04	None	summer	2019	1	emolients	30.P	young
+Pat_04A	21Sep54	DL298	Pat_04	A	FALSE	FALSE	FALSE	Arm_right	1.5	IV	5.4	4.5	9.9	yes	none	FLG/=, PNPLA1/=	f	2016-01-24	None	summer	2019	3	emolients	50.P	young
+Pat_05A	21Sep54	DL301	Pat_05	A	FALSE	FALSE	FALSE	Arm_right	2.2	ARCI	5.7	2.4	8.1	no	none	NIPAL4	m	2014-10-08	None	summer	2019	5	emolients	40.P	young
+Pat_06A	21Sep54	DL304	Pat_06	A	FALSE	FALSE	FALSE	Arm_right	5.1	HI	12	18	30	no	none	ABCA12	f	1996-11-26	None	summer	2019	23	acitretin and emolients	normal	old
+Pat_07A	21Sep54	DL307	Pat_07	A	FALSE	FALSE	FALSE	Arm_right	3.5	IV	5.7	1.2	6.9	no	none	FLG/=	f	2014-03-06	None	summer	2019	5	emolients	40.P	young
+Pat_07A	21Sep138	DS231	Pat_07	A	FALSE	FALSE	FALSE	Arm_right	3.5	IV	5.7	1.2	6.9	no	none	FLG/=	f	2014-03-06	None	summer	2019	5	emolients	40.P	young
+Pat_08A	21Sep54	DL310	Pat_08	A	FALSE	FALSE	FALSE	Arm_right	1.8	ARCI	11.8	1.4	13.2	no	none	ALOX12B	f	2019-08-31	Pat_17	summer	2019	1	emolients	40.P	young
+Pat_09A	21Sep54	DL313	Pat_09	A	FALSE	FALSE	FALSE	Arm_right	1.1	ARCI	12	5.1	17.1	yes	none	ALOXE3	f	1998-10-30	None	summer	2019	21	emolients	normal	old
+Pat_10A	21Sep54	DL316	Pat_10	A	FALSE	FALSE	FALSE	Arm_right	0.4	ARCI	13.7	1.4	15.1	yes	often	ALOXE3	m	2018-04-27	None	autumn 	2020	2	emolients	10.P	young
+Pat_10A	21Sep138	DS232	Pat_10	A	FALSE	FALSE	FALSE	Arm_right	0.4	ARCI	13.7	1.4	15.1	yes	often	ALOXE3	m	2018-04-27	None	autumn 	2020	2	emolients	10.P	young
+Pat_11A	21Sep54	DL319	Pat_11	A	FALSE	FALSE	FALSE	Arm_right	0.7	ARCI	4.9	1.2	6.1	in first year	none	ALOXE3	f	2017-03-17	older sister	winter	2020	3	emolients	10.P	young
+Pat_11A	21Sep138	DS235	Pat_11	A	FALSE	FALSE	FALSE	Arm_right	0.7	ARCI	4.9	1.2	6.1	in first year	none	ALOXE3	f	2017-03-17	older sister	winter	2020	3	emolients	10.P	young
+Pat_12A	21Sep54	DL322	Pat_12	A	FALSE	FALSE	FALSE	Arm_right	2.4	ARCI	21.6	6	27.6	no	none	TGM1	f	1979-11-22	None	spring 	2020	41	acitretin and emolients	normal	old
+Pat_13A	21Sep54	DL325	Pat_13	A	FALSE	FALSE	FALSE	Arm_right	NA	ARCI	4.4	2	6.4	no	none	CYP4F22	f	2019-10-30	sister	spring 	2020	1	emolients	25.P	young
+Pat_14A	21Sep54	DL328	Pat_14	A	FALSE	FALSE	FALSE	Arm_right	2.5	ARCI	9.1	6.9	16	yes	often	CYP4F22, FLG/=	m	2016-11-27	brother	spring	2020	4	emolients	10.P	young
+Pat_15A	21Sep54	DL331	Pat_15	A	FALSE	FALSE	FALSE	Arm_right	4.3	EI	18.8	15.4	34.2	no	often	KRT1	f	2017-11-18	None	autumn	2020	3	emolients	90.P	young
+Pat_16A	21Sep54	DL334	Pat_16	A	FALSE	FALSE	FALSE	Arm_right	7.1	ARCI	8.4	3.3	11.7	no	none	ALOXE3	m	2017-01-16	Pat_28	summer	2019	2	emolients	10.P	young
+Pat_17A	21Sep54	DL337	Pat_17	A	FALSE	FALSE	FALSE	Arm_right	0	ARCI	11.8	1.4	13.2	no	none	ALOX12B	f	2019-08-31	Pat_08	spring	2020	1	emolients	40.P	young
+Pat_18A	21Sep54	DL340	Pat_18	A	FALSE	FALSE	FALSE	Arm_right	2.2	IV	6.9	0	6.9	no	none	FLG/FLG	m	1982-08-05	father of Pat_19, Pat_20, Pat_21	spring	2020	38	emolients	normal	old
+Pat_19A	21Sep54	DL343	Pat_19	A	FALSE	FALSE	FALSE	Arm_right	1.3	IV	3.3	1.4	4.7	no	none	FLG/=, ALOXE3/=	m	2012-06-12	twin brother	spring	2020	8	emolients	normal	middle
+Pat_20A	21Sep54	DL346	Pat_20	A	FALSE	FALSE	FALSE	Arm_right	2.7	IV	4.5	1.8	6.3	yes	often	FLG/=	f	2012-06-12	twin sister	spring	2020	8	emolients	normal	middle
+Pat_20A	21Sep138	DS240	Pat_20	A	FALSE	FALSE	FALSE	Arm_right	2.7	IV	4.5	1.8	6.3	yes	often	FLG/=	f	2012-06-12	twin sister	spring	2020	8	emolients	normal	middle
+Pat_21A	21Sep54	DL349	Pat_21	A	FALSE	FALSE	FALSE	Arm_right	4.2	IV	3	1.4	4.4	no	none	FLG/=	m	2015-01-08	brother	spring	2020	5	emolients	normal	young
+Pat_21A	21Sep138	DS241	Pat_21	A	FALSE	FALSE	FALSE	Arm_right	4.2	IV	3	1.4	4.4	no	none	FLG/=	m	2015-01-08	brother	spring	2020	5	emolients	normal	young
+Pat_22A	21Sep54	DL352	Pat_22	A	FALSE	FALSE	FALSE	Arm_right	2.3	XRI	12	5.1	17.1	yes	none	STS	m	1970-10-11	None	spring	2020	50	emolients	normal	old
+Pat_23A	21Sep54	DL355	Pat_23	A	FALSE	FALSE	FALSE	Arm_right	2	ARCI	10.6	6	16.6	no	none	PNPLA1	f	2018-04-08	None	spring	2020	2	emolients	<10.P	young
+Pat_24A	21Sep54	DL358	Pat_24	A	FALSE	FALSE	FALSE	Arm_right	1	HI	3.2	13.4	16.6	no	often	ABCA12	m	2020-05-19	None	winter	2020	1	acitretin and emolients	30.P	young
+Pat_25A	21Sep54	DL361	Pat_25	A	FALSE	FALSE	FALSE	Arm_right	1.7	NS	8.4	14.4	22.8	yes	often	SPINK5	m	2012-04-05	None	autumn	2020	8	emolients	30.P	middle
+Pat_26A	21Sep54	DL364	Pat_26	A	FALSE	FALSE	FALSE	Arm_right	2.3	ARCI	18.8	2.7	21.5	no	often	CERS3	m	2017-04-10	None	autumn	2020	3	emolients	<10.P	young
+Pat_27A	21Sep54	DL367	Pat_27	A	FALSE	FALSE	FALSE	Arm_right	2.8	IV	3.3	0	3.3	no	none	FLG/=	f	2004-03-04	None	autumn 	2020	16	emolients	underweight	middle
+Pat_28A	21Sep54	DL370	Pat_28	A	FALSE	FALSE	FALSE	Arm_right	2.9	ARCI	8.4	3.3	11.7	no	none	ALOXE3	m	2017-01-16	Pat_16	autumn 	2020	3	emolients	10.P	young
+Pat_29A	21Sep54	DL373	Pat_29	A	FALSE	FALSE	FALSE	Arm_right	3.3	ARCI	1.9	9.9	11.8	no	none	ALOX12B	f	2019-11-25	None	autumn 	2020	1	emolients	normal	young
+Pat_30A	21Sep54	DL376	Pat_30	A	FALSE	FALSE	FALSE	Arm_right	1.9	ARCI	16.8	5	21.8	no	none	TGM1	f	1984-01-09	None	winter	2020	36	emolients	normal	old
+Pat_31A	21Sep54	DL379	Pat_31	A	FALSE	FALSE	FALSE	Arm_right	1.8	ARCI	3	0	3	no	none	TGM1	m	2019-12-05	None	winter	2021	1	emolients	30.P	young
+Pat_32A	21Sep54	DL382	Pat_32	A	FALSE	FALSE	FALSE	Arm_right	3	NS	10.2	16.2	26.4	yes	often	SPINK5	f	2018-03-14	None	winter 	2021	3	emolients	30.P	young
+Pat_33A	21Sep54	DL259	Pat_33	A	FALSE	FALSE	FALSE	Arm_right	5.1	ARCI	6	12	18	High IgE normalized under acitretin	mycoses	PNPLA1	f	1960-02-19	None	winter 	2021	61	acitretin and emolients	overweight	old
+Pat_34A	21Sep54	DL262	Pat_34	A	FALSE	FALSE	FALSE	Arm_right	3.1	IV	5.8	0	5.8	no	none	FLG/=	f	1975-08-15	None	winter 	2021	46	emolients	normal	old
+Pat_35A	21Sep54	DL265	Pat_35	A	FALSE	FALSE	FALSE	Arm_right	3.2	IV	4	0.2	4.2	yes	none	FLG/=	f	2015-02-10	None	spring 	2021	6	emolients	40.P	middle
+Pat_36A	21Sep54	DL268	Pat_36	A	FALSE	FALSE	FALSE	Arm_right	3.1	ARCI	10.3	3.4	13.7	no	none	SDR9C7	f	2013-09-28	None	winter	2021	8	emolients	90.P	middle
+Pat_37A	21Sep54	DL271	Pat_37	A	FALSE	FALSE	FALSE	Arm_right	1.9	ARCI	7	5.4	12.4	no	none	ALOX12B	m	2016-03-27	None	autumn	2020	4	emolients	10.P	young
+Pat_38A	21Sep54	DL274	Pat_38	A	FALSE	FALSE	FALSE	Arm_right	3	ARCI	3.5	3.2	6.7	no	none	ALOXE3	f	2019-06-02	younger sister	autumn	2020	1	emolients	80.P	young
+Pat_39A	21Sep54	DL277	Pat_39	A	FALSE	FALSE	FALSE	Arm_right	3	Porokeratosis	7.6	7.6	15.2	no	none	PMVK	f	2009-07-07	None	spring	2020	11	emolients	10.P	middle
+Pat_40A	21Sep54	DL280	Pat_40	A	FALSE	FALSE	FALSE	Arm_right	11	XRI	4	0	4	yes	none	STS	m	2019-08-06	None	spring	2020	1	emolients	80.P	young
+Pat_41A	21Sep54	DL283	Pat_41	A	FALSE	FALSE	FALSE	Arm_right	11	ARCI	5.6	3.6	9.2	yes	none	SLC27A4 (FTAP4)	m	2017-01-24	None	summer	2020	3	emolients	30.P	young
+Ctrl_CHB	21Sep54	DL286	Ctrl_CH	B	FALSE	FALSE	TRUE	Arm_left	2.4	NA	NA	NA	NA	NA	NA	NA	f	1967-05-17	NA	NA	NA	NA	NA	NA	NA
+Ctrl_GGB	21Sep54	DL287	Ctrl_GG	B	FALSE	FALSE	TRUE	Arm_left	1.8	NA	NA	NA	NA	NA	NA	NA	f	1959-10-02	NA	NA	NA	NA	NA	NA	NA
+Pat_01B	21Sep54	DL290	Pat_01	B	FALSE	FALSE	FALSE	Arm_left	1.7	IV	3	6	9	yes	none	FLG/=	m	1983-06-27	None	summer	2019	39	emolients	normal	old
+Pat_02B	21Sep54	DL293	Pat_02	B	FALSE	FALSE	FALSE	Arm_left	3.3	ARCI	10.4	2.9	13.3	no	none	ALOX12B	m	2018-05-04	None	summer	2019	1	emolients	10.P	young
+Pat_02B	21Sep138	DS228	Pat_02	B	FALSE	FALSE	FALSE	Arm_left	3.3	ARCI	10.4	2.9	13.3	no	none	ALOX12B	m	2018-05-04	None	summer	2019	1	emolients	10.P	young
+Pat_03B	21Sep54	DL296	Pat_03	B	FALSE	FALSE	FALSE	Arm_left	5	NS	6	24	30	yes	often	SPINK5	m	2019-02-04	None	summer	2019	1	emolients	30.P	young
+Pat_04B	21Sep54	DL299	Pat_04	B	FALSE	FALSE	FALSE	Arm_left	2.9	IV	5.4	4.5	9.9	yes	none	FLG/=, PNPLA1/=	f	2016-01-24	None	summer	2019	3	emolients	50.P	young
+Pat_05B	21Sep54	DL302	Pat_05	B	FALSE	FALSE	FALSE	Arm_left	3.2	ARCI	5.7	2.4	8.1	no	none	NIPAL4	m	2014-10-08	None	summer	2019	5	emolients	40.P	young
+Pat_05B	21Sep138	DS229	Pat_05	B	FALSE	FALSE	FALSE	Arm_left	3.2	ARCI	5.7	2.4	8.1	no	none	NIPAL4	m	2014-10-08	None	summer	2019	5	emolients	40.P	young
+Pat_06B	21Sep54	DL305	Pat_06	B	FALSE	FALSE	FALSE	Arm_left	4.3	HI	12	18	30	no	none	ABCA12	f	1996-11-26	None	summer	2019	23	acitretin and emolients	normal	old
+Pat_07B	21Sep54	DL308	Pat_07	B	FALSE	FALSE	FALSE	Arm_left	2	IV	5.7	1.2	6.9	no	none	FLG/=	f	2014-03-06	None	summer	2019	5	emolients	40.P	young
+Pat_08B	21Sep54	DL311	Pat_08	B	FALSE	FALSE	FALSE	Arm_left	2.8	ARCI	11.8	1.4	13.2	no	none	ALOX12B	f	2019-08-31	Pat_17	summer	2019	1	emolients	40.P	young
+Pat_09B	21Sep54	DL314	Pat_09	B	FALSE	FALSE	FALSE	Arm_left	0.9	ARCI	12	5.1	17.1	yes	none	ALOXE3	f	1998-10-30	None	summer	2019	21	emolients	normal	old
+Pat_10B	21Sep54	DL317	Pat_10	B	FALSE	FALSE	FALSE	Arm_left	1.7	ARCI	13.7	1.4	15.1	yes	often	ALOXE3	m	2018-04-27	None	autumn 	2020	2	emolients	10.P	young
+Pat_10B	21Sep138	DS233	Pat_10	B	FALSE	FALSE	FALSE	Arm_left	1.7	ARCI	13.7	1.4	15.1	yes	often	ALOXE3	m	2018-04-27	None	autumn 	2020	2	emolients	10.P	young
+Pat_11B	21Sep54	DL320	Pat_11	B	FALSE	FALSE	FALSE	Arm_left	1	ARCI	4.9	1.2	6.1	in first year	none	ALOXE3	f	2017-03-17	older sister	winter	2020	3	emolients	10.P	young
+Pat_12B	21Sep54	DL323	Pat_12	B	FALSE	FALSE	FALSE	Arm_left	0	ARCI	21.6	6	27.6	no	none	TGM1	f	1979-11-22	None	spring 	2020	41	acitretin and emolients	normal	old
+Pat_13B	21Sep54	DL326	Pat_13	B	FALSE	FALSE	FALSE	Arm_left	NA	ARCI	4.4	2	6.4	no	none	CYP4F22	f	2019-10-30	sister	spring 	2020	1	emolients	25.P	young
+Pat_14B	21Sep54	DL329	Pat_14	B	FALSE	FALSE	FALSE	Arm_left	0.1	ARCI	9.1	6.9	16	yes	often	CYP4F22, FLG/=	m	2016-11-27	brother	spring	2020	4	emolients	10.P	young
+Pat_15B	21Sep54	DL332	Pat_15	B	FALSE	FALSE	FALSE	Arm_left	2.2	EI	18.8	15.4	34.2	no	often	KRT1	f	2017-11-18	None	autumn	2020	3	emolients	90.P	young
+Pat_16B	21Sep54	DL335	Pat_16	B	FALSE	FALSE	FALSE	Arm_left	4	ARCI	8.4	3.3	11.7	no	none	ALOXE3	m	2017-01-16	Pat_28	summer	2019	2	emolients	10.P	young
+Pat_16B	21Sep138	DS237	Pat_16	B	FALSE	FALSE	FALSE	Arm_left	4	ARCI	8.4	3.3	11.7	no	none	ALOXE3	m	2017-01-16	Pat_28	summer	2019	2	emolients	10.P	young
+Pat_17B	21Sep54	DL338	Pat_17	B	FALSE	FALSE	FALSE	Arm_left	0.3	ARCI	11.8	1.4	13.2	no	none	ALOX12B	f	2019-08-31	Pat_08	spring	2020	1	emolients	40.P	young
+Pat_18B	21Sep54	DL341	Pat_18	B	FALSE	FALSE	FALSE	Arm_left	1.1	IV	6.9	0	6.9	no	none	FLG/FLG	m	1982-08-05	father of Pat_19, Pat_20, Pat_21	spring	2020	38	emolients	normal	old
+Pat_19B	21Sep54	DL344	Pat_19	B	FALSE	FALSE	FALSE	Arm_left	1.1	IV	3.3	1.4	4.7	no	none	FLG/=, ALOXE3/=	m	2012-06-12	twin brother	spring	2020	8	emolients	normal	middle
+Pat_20B	21Sep54	DL347	Pat_20	B	FALSE	FALSE	FALSE	Arm_left	1.4	IV	4.5	1.8	6.3	yes	often	FLG/=	f	2012-06-12	twin sister	spring	2020	8	emolients	normal	middle
+Pat_21B	21Sep54	DL350	Pat_21	B	FALSE	FALSE	FALSE	Arm_left	1.6	IV	3	1.4	4.4	no	none	FLG/=	m	2015-01-08	brother	spring	2020	5	emolients	normal	young
+Pat_22B	21Sep54	DL353	Pat_22	B	FALSE	FALSE	FALSE	Arm_left	4.5	XRI	12	5.1	17.1	yes	none	STS	m	1970-10-11	None	spring	2020	50	emolients	normal	old
+Pat_22B	21Sep138	DS242	Pat_22	B	FALSE	FALSE	FALSE	Arm_left	4.5	XRI	12	5.1	17.1	yes	none	STS	m	1970-10-11	None	spring	2020	50	emolients	normal	old
+Pat_23B	21Sep54	DL356	Pat_23	B	FALSE	FALSE	FALSE	Arm_left	3	ARCI	10.6	6	16.6	no	none	PNPLA1	f	2018-04-08	None	spring	2020	2	emolients	<10.P	young
+Pat_24B	21Sep54	DL359	Pat_24	B	FALSE	FALSE	FALSE	Arm_left	0.8	HI	3.2	13.4	16.6	no	often	ABCA12	m	2020-05-19	None	winter	2020	1	acitretin and emolients	30.P	young
+Pat_25B	21Sep54	DL362	Pat_25	B	FALSE	FALSE	FALSE	Arm_left	1.9	NS	8.4	14.4	22.8	yes	often	SPINK5	m	2012-04-05	None	autumn	2020	8	emolients	30.P	middle
+Pat_26B	21Sep54	DL365	Pat_26	B	FALSE	FALSE	FALSE	Arm_left	1.1	ARCI	18.8	2.7	21.5	no	often	CERS3	m	2017-04-10	None	autumn	2020	3	emolients	<10.P	young
+Pat_27B	21Sep54	DL368	Pat_27	B	FALSE	FALSE	FALSE	Arm_left	1.2	IV	3.3	0	3.3	no	none	FLG/=	f	2004-03-04	None	autumn 	2020	16	emolients	underweight	middle
+Pat_28B	21Sep54	DL371	Pat_28	B	FALSE	FALSE	FALSE	Arm_left	1.5	ARCI	8.4	3.3	11.7	no	none	ALOXE3	m	2017-01-16	Pat_16	autumn 	2020	3	emolients	10.P	young
+Pat_29B	21Sep54	DL374	Pat_29	B	FALSE	FALSE	FALSE	Arm_left	0.7	ARCI	1.9	9.9	11.8	no	none	ALOX12B	f	2019-11-25	None	autumn 	2020	1	emolients	normal	young
+Pat_30B	21Sep54	DL377	Pat_30	B	FALSE	FALSE	FALSE	Arm_left	0.8	ARCI	16.8	5	21.8	no	none	TGM1	f	1984-01-09	None	winter	2020	36	emolients	normal	old
+Pat_31B	21Sep54	DL380	Pat_31	B	FALSE	FALSE	FALSE	Arm_left	0.5	ARCI	3	0	3	no	none	TGM1	m	2019-12-05	None	winter	2021	1	emolients	30.P	young
+Pat_32B	21Sep54	DL257	Pat_32	B	FALSE	FALSE	FALSE	Arm_left	2.5	NS	10.2	16.2	26.4	yes	often	SPINK5	f	2018-03-14	None	winter 	2021	3	emolients	30.P	young
+Pat_33B	21Sep54	DL260	Pat_33	B	FALSE	FALSE	FALSE	Arm_left	2.7	ARCI	6	12	18	High IgE normalized under acitretin	mycoses	PNPLA1	f	1960-02-19	None	winter 	2021	61	acitretin and emolients	overweight	old
+Pat_34B	21Sep54	DL263	Pat_34	B	FALSE	FALSE	FALSE	Arm_left	1.7	IV	5.8	0	5.8	no	none	FLG/=	f	1975-08-15	None	winter 	2021	46	emolients	normal	old
+Pat_35B	21Sep54	DL266	Pat_35	B	FALSE	FALSE	FALSE	Arm_left	1.7	IV	4	0.2	4.2	yes	none	FLG/=	f	2015-02-10	None	spring 	2021	6	emolients	40.P	middle
+Pat_36B	21Sep54	DL269	Pat_36	B	FALSE	FALSE	FALSE	Arm_left	3.8	ARCI	10.3	3.4	13.7	no	none	SDR9C7	f	2013-09-28	None	winter	2021	8	emolients	90.P	middle
+Pat_37B	21Sep54	DL272	Pat_37	B	FALSE	FALSE	FALSE	Arm_left	3.1	ARCI	7	5.4	12.4	no	none	ALOX12B	m	2016-03-27	None	autumn	2020	4	emolients	10.P	young
+Pat_38B	21Sep54	DL275	Pat_38	B	FALSE	FALSE	FALSE	Arm_left	2.8	ARCI	3.5	3.2	6.7	no	none	ALOXE3	f	2019-06-02	younger sister	autumn	2020	1	emolients	80.P	young
+Pat_39B	21Sep54	DL278	Pat_39	B	FALSE	FALSE	FALSE	Arm_left	2.8	Porokeratosis	7.6	7.6	15.2	no	none	PMVK	f	2009-07-07	None	spring	2020	11	emolients	10.P	middle
+Pat_40B	21Sep54	DL281	Pat_40	B	FALSE	FALSE	FALSE	Arm_left	9.6	XRI	4	0	4	yes	none	STS	m	2019-08-06	None	spring	2020	1	emolients	80.P	young
+Pat_41B	21Sep54	DL284	Pat_41	B	FALSE	FALSE	FALSE	Arm_left	16.7	ARCI	5.6	3.6	9.2	yes	none	SLC27A4 (FTAP4)	m	2017-01-24	None	summer	2020	3	emolients	30.P	young
+Pat_01C	21Sep54	DL291	Pat_01	C	FALSE	FALSE	FALSE	Abdomen	2.7	IV	3	6	9	yes	none	FLG/=	m	1983-06-27	None	summer	2019	39	emolients	normal	old
+Pat_01C	21Sep138	DS227	Pat_01	C	FALSE	FALSE	FALSE	Abdomen	2.7	IV	3	6	9	yes	none	FLG/=	m	1983-06-27	None	summer	2019	39	emolients	normal	old
+Pat_02C	21Sep54	DL294	Pat_02	C	FALSE	FALSE	FALSE	Abdomen	2.2	ARCI	10.4	2.9	13.3	no	none	ALOX12B	m	2018-05-04	None	summer	2019	1	emolients	10.P	young
+Pat_03C	21Sep54	DL297	Pat_03	C	FALSE	FALSE	FALSE	Abdomen	4.3	NS	6	24	30	yes	often	SPINK5	m	2019-02-04	None	summer	2019	1	emolients	30.P	young
+Pat_04C	21Sep54	DL300	Pat_04	C	FALSE	FALSE	FALSE	Abdomen	1.7	IV	5.4	4.5	9.9	yes	none	FLG/=, PNPLA1/=	f	2016-01-24	None	summer	2019	3	emolients	50.P	young
+Pat_05C	21Sep54	DL303	Pat_05	C	FALSE	FALSE	FALSE	Abdomen	3.5	ARCI	5.7	2.4	8.1	no	none	NIPAL4	m	2014-10-08	None	summer	2019	5	emolients	40.P	young
+Pat_05C	21Sep138	DS230	Pat_05	C	FALSE	FALSE	FALSE	Abdomen	3.5	ARCI	5.7	2.4	8.1	no	none	NIPAL4	m	2014-10-08	None	summer	2019	5	emolients	40.P	young
+Pat_06C	21Sep54	DL306	Pat_06	C	FALSE	FALSE	FALSE	Abdomen	6.1	HI	12	18	30	no	none	ABCA12	f	1996-11-26	None	summer	2019	23	acitretin and emolients	normal	old
+Pat_07C	21Sep54	DL309	Pat_07	C	FALSE	FALSE	FALSE	Abdomen	3.4	IV	5.7	1.2	6.9	no	none	FLG/=	f	2014-03-06	None	summer	2019	5	emolients	40.P	young
+Pat_08C	21Sep54	DL312	Pat_08	C	FALSE	FALSE	FALSE	Abdomen	1	ARCI	11.8	1.4	13.2	no	none	ALOX12B	f	2019-08-31	Pat_17	summer	2019	1	emolients	40.P	young
+Pat_09C	21Sep54	DL315	Pat_09	C	FALSE	FALSE	FALSE	Abdomen	1.1	ARCI	12	5.1	17.1	yes	none	ALOXE3	f	1998-10-30	None	summer	2019	21	emolients	normal	old
+Pat_10C	21Sep54	DL318	Pat_10	C	FALSE	FALSE	FALSE	Abdomen	0.2	ARCI	13.7	1.4	15.1	yes	often	ALOXE3	m	2018-04-27	None	autumn 	2020	2	emolients	10.P	young
+Pat_10C	21Sep138	DS234	Pat_10	C	FALSE	FALSE	FALSE	Abdomen	0.2	ARCI	13.7	1.4	15.1	yes	often	ALOXE3	m	2018-04-27	None	autumn 	2020	2	emolients	10.P	young
+Pat_11C	21Sep54	DL321	Pat_11	C	FALSE	FALSE	FALSE	Abdomen	1.8	ARCI	4.9	1.2	6.1	in first year	none	ALOXE3	f	2017-03-17	older sister	winter	2020	3	emolients	10.P	young
+Pat_11C	21Sep138	DS236	Pat_11	C	FALSE	FALSE	FALSE	Abdomen	1.8	ARCI	4.9	1.2	6.1	in first year	none	ALOXE3	f	2017-03-17	older sister	winter	2020	3	emolients	10.P	young
+Pat_12C	21Sep54	DL324	Pat_12	C	FALSE	FALSE	FALSE	Abdomen	1.4	ARCI	21.6	6	27.6	no	none	TGM1	f	1979-11-22	None	spring 	2020	41	acitretin and emolients	normal	old
+Pat_13C	21Sep54	DL327	Pat_13	C	FALSE	FALSE	FALSE	Abdomen	NA	ARCI	4.4	2	6.4	no	none	CYP4F22	f	2019-10-30	sister	spring 	2020	1	emolients	25.P	young
+Pat_14C	21Sep54	DL330	Pat_14	C	FALSE	FALSE	FALSE	Abdomen	2.8	ARCI	9.1	6.9	16	yes	often	CYP4F22, FLG/=	m	2016-11-27	brother	spring	2020	4	emolients	10.P	young
+Pat_15C	21Sep54	DL333	Pat_15	C	FALSE	FALSE	FALSE	Abdomen	2.2	EI	18.8	15.4	34.2	no	often	KRT1	f	2017-11-18	None	autumn	2020	3	emolients	90.P	young
+Pat_16C	21Sep54	DL336	Pat_16	C	FALSE	FALSE	FALSE	Abdomen	3.9	ARCI	8.4	3.3	11.7	no	none	ALOXE3	m	2017-01-16	Pat_28	summer	2019	2	emolients	10.P	young
+Pat_16C	21Sep138	DS238	Pat_16	C	FALSE	FALSE	FALSE	Abdomen	3.9	ARCI	8.4	3.3	11.7	no	none	ALOXE3	m	2017-01-16	Pat_28	summer	2019	2	emolients	10.P	young
+Pat_17C	21Sep54	DL339	Pat_17	C	FALSE	FALSE	FALSE	Abdomen	0.3	ARCI	11.8	1.4	13.2	no	none	ALOX12B	f	2019-08-31	Pat_08	spring	2020	1	emolients	40.P	young
+Pat_18C	21Sep54	DL342	Pat_18	C	FALSE	FALSE	FALSE	Abdomen	0.3	IV	6.9	0	6.9	no	none	FLG/FLG	m	1982-08-05	father of Pat_19, Pat_20, Pat_21	spring	2020	38	emolients	normal	old
+Pat_19C	21Sep54	DL345	Pat_19	C	FALSE	FALSE	FALSE	Abdomen	3.4	IV	3.3	1.4	4.7	no	none	FLG/=, ALOXE3/=	m	2012-06-12	twin brother	spring	2020	8	emolients	normal	middle
+Pat_19C	21Sep138	DS239	Pat_19	C	FALSE	FALSE	FALSE	Abdomen	3.4	IV	3.3	1.4	4.7	no	none	FLG/=, ALOXE3/=	m	2012-06-12	twin brother	spring	2020	8	emolients	normal	middle
+Pat_20C	21Sep54	DL348	Pat_20	C	FALSE	FALSE	FALSE	Abdomen	0.2	IV	4.5	1.8	6.3	yes	often	FLG/=	f	2012-06-12	twin sister	spring	2020	8	emolients	normal	middle
+Pat_21C	21Sep54	DL351	Pat_21	C	FALSE	FALSE	FALSE	Abdomen	1.2	IV	3	1.4	4.4	no	none	FLG/=	m	2015-01-08	brother	spring	2020	5	emolients	normal	young
+Pat_22C	21Sep54	DL354	Pat_22	C	FALSE	FALSE	FALSE	Abdomen	2	XRI	12	5.1	17.1	yes	none	STS	m	1970-10-11	None	spring	2020	50	emolients	normal	old
+Pat_23C	21Sep54	DL357	Pat_23	C	FALSE	FALSE	FALSE	Abdomen	1	ARCI	10.6	6	16.6	no	none	PNPLA1	f	2018-04-08	None	spring	2020	2	emolients	<10.P	young
+Pat_24C	21Sep54	DL360	Pat_24	C	FALSE	FALSE	FALSE	Abdomen	0.8	HI	3.2	13.4	16.6	no	often	ABCA12	m	2020-05-19	None	winter	2020	1	acitretin and emolients	30.P	young
+Pat_25C	21Sep54	DL363	Pat_25	C	FALSE	FALSE	FALSE	Abdomen	3.7	NS	8.4	14.4	22.8	yes	often	SPINK5	m	2012-04-05	None	autumn	2020	8	emolients	30.P	middle
+Pat_26C	21Sep54	DL366	Pat_26	C	FALSE	FALSE	FALSE	Abdomen	1.8	ARCI	18.8	2.7	21.5	no	often	CERS3	m	2017-04-10	None	autumn	2020	3	emolients	<10.P	young
+Pat_27C	21Sep54	DL369	Pat_27	C	FALSE	FALSE	FALSE	Abdomen	1.6	IV	3.3	0	3.3	no	none	FLG/=	f	2004-03-04	None	autumn 	2020	16	emolients	underweight	middle
+Pat_28C	21Sep54	DL372	Pat_28	C	FALSE	FALSE	FALSE	Abdomen	2	ARCI	8.4	3.3	11.7	no	none	ALOXE3	m	2017-01-16	Pat_16	autumn 	2020	3	emolients	10.P	young
+Pat_29C	21Sep54	DL375	Pat_29	C	FALSE	FALSE	FALSE	Abdomen	1.1	ARCI	1.9	9.9	11.8	no	none	ALOX12B	f	2019-11-25	None	autumn 	2020	1	emolients	normal	young
+Pat_30C	21Sep54	DL378	Pat_30	C	FALSE	FALSE	FALSE	Abdomen	1.2	ARCI	16.8	5	21.8	no	none	TGM1	f	1984-01-09	None	winter	2020	36	emolients	normal	old
+Pat_31C	21Sep54	DL381	Pat_31	C	FALSE	FALSE	FALSE	Abdomen	2.1	ARCI	3	0	3	no	none	TGM1	m	2019-12-05	None	winter	2021	1	emolients	30.P	young
+Pat_32C	21Sep54	DL258	Pat_32	C	FALSE	FALSE	FALSE	Abdomen	2.2	NS	10.2	16.2	26.4	yes	often	SPINK5	f	2018-03-14	None	winter 	2021	3	emolients	30.P	young
+Pat_33C	21Sep54	DL261	Pat_33	C	FALSE	FALSE	FALSE	Abdomen	0.9	ARCI	6	12	18	High IgE normalized under acitretin	mycoses	PNPLA1	f	1960-02-19	None	winter 	2021	61	acitretin and emolients	overweight	old
+Pat_34C	21Sep54	DL264	Pat_34	C	FALSE	FALSE	FALSE	Abdomen	1.7	IV	5.8	0	5.8	no	none	FLG/=	f	1975-08-15	None	winter 	2021	46	emolients	normal	old
+Pat_35C	21Sep54	DL267	Pat_35	C	FALSE	FALSE	FALSE	Abdomen	2	IV	4	0.2	4.2	yes	none	FLG/=	f	2015-02-10	None	spring 	2021	6	emolients	40.P	middle
+Pat_36C	21Sep54	DL270	Pat_36	C	FALSE	FALSE	FALSE	Abdomen	2.6	ARCI	10.3	3.4	13.7	no	none	SDR9C7	f	2013-09-28	None	winter	2021	8	emolients	90.P	middle
+Pat_37C	21Sep54	DL273	Pat_37	C	FALSE	FALSE	FALSE	Abdomen	2.5	ARCI	7	5.4	12.4	no	none	ALOX12B	m	2016-03-27	None	autumn	2020	4	emolients	10.P	young
+Pat_38C	21Sep54	DL276	Pat_38	C	FALSE	FALSE	FALSE	Abdomen	2.1	ARCI	3.5	3.2	6.7	no	none	ALOXE3	f	2019-06-02	younger sister	autumn	2020	1	emolients	80.P	young
+Pat_39C	21Sep54	DL279	Pat_39	C	FALSE	FALSE	FALSE	Abdomen	2.8	Porokeratosis	7.6	7.6	15.2	no	none	PMVK	f	2009-07-07	None	spring	2020	11	emolients	10.P	middle
+Pat_39C	21Sep138	DS226	Pat_39	C	FALSE	FALSE	FALSE	Abdomen	2.8	Porokeratosis	7.6	7.6	15.2	no	none	PMVK	f	2009-07-07	None	spring	2020	11	emolients	10.P	middle
+Pat_40C	21Sep54	DL282	Pat_40	C	FALSE	FALSE	FALSE	Abdomen	2.9	XRI	4	0	4	yes	none	STS	m	2019-08-06	None	spring	2020	1	emolients	80.P	young
+Pat_41C	21Sep54	DL285	Pat_41	C	FALSE	FALSE	FALSE	Abdomen	11.3	ARCI	5.6	3.6	9.2	yes	none	SLC27A4 (FTAP4)	m	2017-01-24	None	summer	2020	3	emolients	30.P	young
+MOCK	21Sep54	DL384	MOCK		TRUE	FALSE	FALSE		NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+MOCK	21Sep138	DS270	MOCK		TRUE	FALSE	FALSE		NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+NTC	21Sep54	DL383	NTC		FALSE	TRUE	FALSE		NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+NTC	21Sep138	DS269	NTC		FALSE	TRUE	FALSE		NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Pat_PBS	21Sep54	DL288	PBS		FALSE	FALSE	FALSE		NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+K1	EB_cohort	K1-B	K1	B	FALSE	FALSE	FALSE	Arm_left	0	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Summer	NA	11.83	NA	36.1	middle
+K3	EB_cohort	K3-B	K3	B	FALSE	FALSE	FALSE	Arm_left	0.8	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	0.25	NA	6.8	young
+K4	EB_cohort	K4-B	K4	B	FALSE	FALSE	FALSE	Arm_left	2	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Autumn	NA	8	NA	24.1	middle
+K5	EB_cohort	K5-B	K5	B	FALSE	FALSE	FALSE	Arm_left	0.35	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	6	NA	24.1	middle
+K6	EB_cohort	K6-B	K6	B	FALSE	FALSE	FALSE	Arm_left	0.45	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Autumn	NA	3	NA	15.9	young
+K7	EB_cohort	K7-B	K7	B	FALSE	FALSE	FALSE	Arm_left	0.6	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Autumn	NA	10.17	NA	32.2	middle
+K8	EB_cohort	K8-B	K8	B	FALSE	FALSE	FALSE	Arm_left	2.7	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	2	NA	16.9	young
+K9	EB_cohort	K9-B	K9	B	FALSE	FALSE	FALSE	Arm_left	1.7	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	4	NA	20.5	young
+K11	EB_cohort	K11-B	K11	B	FALSE	FALSE	FALSE	Arm_left	1.9	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Spring	NA	8	NA	23	middle
+K13	EB_cohort	K13-B	K13	B	FALSE	FALSE	FALSE	Arm_left	3.9	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Spring	NA	10.5	NA	55.4	middle
+K14	EB_cohort	K14-B	K14	B	FALSE	FALSE	FALSE	Arm_left	4.5	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Spring	NA	4	NA	19.9	young
+K17	EB_cohort	K17-B	K17	B	FALSE	FALSE	FALSE	Arm_left	0.92	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Spring	NA	15.42	NA	72	middle
+K18	EB_cohort	K18-B	K18	B	FALSE	FALSE	FALSE	Arm_left	1.57	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Spring	NA	13.5	NA	38	middle
+K20	EB_cohort	K20-B	K20	B	FALSE	FALSE	FALSE	Arm_left	2.23	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Spring	NA	14.58	NA	46.3	middle
+K21	EB_cohort	K21-B	K21	B	FALSE	FALSE	FALSE	Arm_left	3.43	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Spring	NA	14.92	NA	55	middle
+K26	EB_cohort	K26-B	K26	B	FALSE	FALSE	FALSE	Arm_left	0.5	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Autumn	NA	1	NA	10	young
+K27	EB_cohort	K27-B	K27	B	FALSE	FALSE	FALSE	Arm_left	0.4	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	10.58	NA	35	middle
+K28	EB_cohort	K28-B	K28	B	FALSE	FALSE	FALSE	Arm_left	0.5	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Autumn	NA	14.08	NA	56	middle
+K30	EB_cohort	K30-B	K30	B	FALSE	FALSE	FALSE	Arm_left	1.5	NA	NA	NA	NA	NA	NA	NA	m	NA	NA	Autumn	NA	1	NA	13	young
+K31	EB_cohort	K31-B	K31	B	FALSE	FALSE	FALSE	Arm_left	1.7	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Winter	NA	1	NA	12.3	young
+K33	EB_cohort	K33-B	K33	B	FALSE	FALSE	FALSE	Arm_left	0.4	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Winter	NA	18.83	NA	56	middle
+K34	EB_cohort	K34-B	K34	B	FALSE	FALSE	FALSE	Arm_left	1.2	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Winter	NA	21.92	NA	51	old
+K35	EB_cohort	K35-B	K35	B	FALSE	FALSE	FALSE	Arm_left	1.1	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Winter	NA	13.67	NA	49	middle
+K37	EB_cohort	K37-B	K37	B	FALSE	FALSE	FALSE	Arm_left	1.5	NA	NA	NA	NA	NA	NA	NA	f	NA	NA	Spring	NA	5	NA	25.2	young
