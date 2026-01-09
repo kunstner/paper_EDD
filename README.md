@@ -1,1 +1,7 @@
-# paper_EDD
+# 2026_EDD/Ichthyosis_paper
+
+Repository contains code for the following paper:
+
+**Cutaneous dysbiosis in inherited ichthyoses/epidermal differentiation disorders: a prospective case-control study**
+
+Inherited ichthyoses, recently renamed as epidermal differentiation disorders (EDD) are characterized by cutaneous dryness, scaling, hyperkeratosis and different degrees of inflammation. Patients suffer from hypohidrosis, recurrent cutaneous infections, eczema, atopy and intense pruritus. Few small and heterogeneous studies have addressed the cutaneous microbiome in inherited ichthyoses/epidermal differentiation disorders. Along with the disturbed epidermal barrier, cutaneous dysbiosis contributes to the pathogenic chain leading to chronic inflammation. Here we investigate the cutaneous microbiome in 41 patients with different types of ichthyosis/EDD. Overall, the group of patients with different types of ichthyoses/EDD shows a significant reduction in beta diversity and an increased abundance of Corynebacterium and Staphylococcus on the skin, which is in agreement with previous studies. The major finding of our study is the young age at which this imbalance is detected—namely, in childhood, before the age of 6 years. Particularly, autosomal recessive congenital ichthyosis was associated with more pronounced microbiome alterations than ichthyosis vulgaris. Clinical severity correlated with dysbiosis: higher scaling scores correlated with the presence of Corynebacteria, higher disease scores with the presence of Streptococcus, and the presence of eczema/atopy with a significant reduction in beta diversity. The main limitation of our study, as well as of other studies in this field, is the small and heterogeneous cohort.
