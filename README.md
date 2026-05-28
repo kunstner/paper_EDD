@@ -92,7 +92,7 @@ The main input is `data/phyloseq.OTU.RDS`, a [`phyloseq`](https://joey711.github
 - Taxonomy table
 - Sample metadata (patient/control status, ichthyosis type, body-site location, age group, DivNet alpha diversity estimates)
 
-Raw sequencing data are deposited at [ENA study PRJEB112279](https://www.ebi.ac.uk/ena/browser/view/PRJEB112279).
+Raw sequencing data are deposited at [ENA study PRJEB60267](https://www.ebi.ac.uk/ena/browser/view/PRJEB60267).
 
 ---
 
